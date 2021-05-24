@@ -1,0 +1,175 @@
+1
+Data: 12.12.2020
+-----------------
+Produs: Mere
+Cantitate: 5 buc
+Pret: 12 lei/buc
+TOTAL: 60 lei
+
+2
+Data: 05.11.2020
+--------------------
+Produs: Ceapa
+Cantitate: 3 buc
+Pret: 3 lei/buc
+TOTAL: 9 lei
+
+3
+Data: 13.10.2020
+-----------------
+Produs: Sprite
+Cantitate: 2 buc
+Pret: 4 lei/buc
+TOTAL: 8 lei
+
+4
+Data: 21.09.2020
+-------------------
+Produs: Muschiulet
+Cantitate: 2 buc
+Pret: 23 lei/buc
+TOTAL: 46 lei
+
+5
+Data: 14.08.2020
+-----------------
+Produs: Avocado
+Cantitate: 5 buc
+Pret: 6 lei/buc
+TOTAL: 30 lei
+
+6
+Data: 15.07.2020
+-----------------
+Produs: Gin
+Cantitate: 2 buc
+Pret: 38 lei/buc
+TOTAL: 76 lei
+
+7
+Data: 19.06.2020
+-----------------
+Produs: Piept
+Cantitate: 1 buc
+Pret: 13 lei/buc
+TOTAL: 13 lei
+
+8
+Data: 02.05.2020
+------------------
+Produs: Schweppes 
+Cantitate: 2 buc
+Pret: 5 lei/buc
+TOTAL: 10 lei
+
+9
+Data: 07.04.2020
+---------------------
+Produs: Iaurt grecesc 
+Cantitate: 3 buc
+Pret: 3 lei/buc
+TOTAL: 9 lei
+
+10
+Data: 24.04.2020
+-----------------
+Produs: Bere
+Cantitate: 2 buc
+Pret: 5 lei/buc
+TOTAL: 10 lei 
+
+11
+Data: 09.02.2020
+-----------------
+Produs: Branza
+Cantitate: 3 buc
+Pret: 10 lei/buc
+TOTAL: 30 lei
+
+12
+Data: 18.01.2020
+-----------------
+Produs: Vin
+Cantitate: 1 buc
+Pret:18 lei/buc
+TOTAL: 18 lei
+
+13
+Data: 16.12.2019
+-----------------
+Produs: Piept
+Cantitate: 2 buc
+Pret: 13 lei/buc
+TOTAL: 26 lei
+
+14
+Data: 24.03.2020
+-----------------
+Produs: Bere
+Cantitate: 2 buc
+Pret: 5 lei/buc
+TOTAL: 10 lei 
+
+15
+Data: 09.04.2020
+-----------------
+Produs: Branza
+Cantitate: 3 buc
+Pret: 10 lei/buc
+TOTAL: 30 lei
+
+16
+Data: 18.05.2020
+-----------------
+Produs: Vin
+Cantitate: 1 buc
+Pret:18 lei/buc
+TOTAL: 18 lei
+
+17
+Data: 16.06.2020
+-----------------
+Produs: Piept
+Cantitate: 2 buc
+Pret: 13 lei/buc
+TOTAL: 26 lei
+
+18
+Data: 09.09.2020
+-----------------
+Produs: Branza
+Cantitate: 3 buc
+Pret: 10 lei/buc
+TOTAL: 30 lei
+
+19
+Data: 18.07.2020
+-----------------
+Produs: Vin
+Cantitate: 1 buc
+Pret:18 lei/buc
+TOTAL: 18 lei
+
+20
+Data: 16.11.2020
+-----------------
+Produs: Piept
+Cantitate: 2 buc
+Pret: 13 lei/buc
+TOTAL: 26 lei
+
+21
+Data: 16.02.2020
+-----------------
+Produs: Piept
+Cantitate: 2 buc
+Pret: 13 lei/buc
+TOTAL: 26 lei
+
+22
+Data: 16.01.2020
+-----------------
+Produs: Piept
+Cantitate: 2 buc
+Pret: 13 lei/buc
+TOTAL: 26 lei
